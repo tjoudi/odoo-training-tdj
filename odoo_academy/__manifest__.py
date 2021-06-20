@@ -9,7 +9,6 @@
                 - Attendees
     """,
     'author': 'tdj',
-    'website' 'google.com',
     'category' : 'Training',
     'version' : '0.1',
     'depends' : ['base'],
